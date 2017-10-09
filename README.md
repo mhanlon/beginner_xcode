@@ -2,4 +2,7 @@
 
 Before we get started with Swift for app development, we have to download Xcode.
 
-1. 
+1. Go to 
+
+
+
