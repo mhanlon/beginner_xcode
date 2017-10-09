@@ -10,6 +10,8 @@ Before we get started with Swift for app development, we have to download Xcode.
 
 5. Choose the Single View App template from the resulting dialog.
 
-6. 
+6. Give your app a name:
+
+7. 
 
 
