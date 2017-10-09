@@ -1,4 +1,4 @@
-# Beginner Swift k
+# Beginner Swift Sushi
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+Before we get started with Swift, we have to download Xcode.
 
