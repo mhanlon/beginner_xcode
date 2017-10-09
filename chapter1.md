@@ -6,7 +6,10 @@ Before we get started with Swift for app development, we have to download Xcode.
 2. Once Xcode has downloaded, open it.
 3. If you are prompted to install additional components for Xcode, click Install and enter the password for an administrator on the machine.
 
-4. In the dialog that appears, select Create a new Xcode project
+4. In the dialog that appears, select Create a new Xcode project.
 
+5. Choose the Single View App template from the resulting dialog.
+
+6. 
 
 
