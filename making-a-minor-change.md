@@ -28,5 +28,5 @@ Change the color to something other than the default. I've chosen a bright green
 
 Click the Run button again to build and run our application.
 
-
+![](/assets/Sushi9.png)
 
