@@ -1,10 +1,8 @@
-# A Tour of the Xcode Interface
+# Making a Minor Change
 
-Your app should look like this, after following the setup guide:
+Now we're going to change a small piece of our user interface.
 
-![](/assets/Sushi1.png)If you click on the Run button
-
-![](/assets/Sushi3.png)
+In the Project Navigator \(the left pane 
 
 the simulator will launch with a blank white screen.
 
