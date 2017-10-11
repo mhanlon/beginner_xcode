@@ -20,3 +20,5 @@ Open the View Controller Scene by clicking on the disclosure triangle to reveal 
 
 The far right pane of Xcode's window is the Utilities pane. This pane will change, depending on the item you have selected. In this case, it shows an inspector for various properties of our view.
 
+
+
