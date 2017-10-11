@@ -2,7 +2,7 @@
 
 Now we're going to change a small piece of our user interface.
 
-In the Project Navigator \(the left pane
+In the Project Navigator \(the left pane of Xcode\)
 
 ![](/assets/ProjectNavigator.png)
 
