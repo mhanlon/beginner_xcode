@@ -14,5 +14,11 @@ Select the Main.storyboard in the Project Navigator.
 
 We will first delete our old View. Like before in the document outline, highlight the View and press the delete key.
 
-In the Utilities pane on the right, there is a section at the bottom. The third icon is for the Object Library, which is where we can find an Image View to add to our view.
+In the Utilities pane on the right, there is a section at the bottom. The third icon is for the Object Library, which is where we can find an Image View to add to our view. Start typing 'image' into the search bar at the bottom of the pane to filter objects down to our image view.
+
+![](/assets/Sushi10.png)
+
+Then,
+
+
 
