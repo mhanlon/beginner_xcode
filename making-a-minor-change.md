@@ -24,5 +24,5 @@ The far right pane of Xcode's window is the Utilities pane. This pane will chang
 
 Change the color to something other than the default. I've chosen a bright green here.
 
-
+![](/assets/Sushi8.png)
 
