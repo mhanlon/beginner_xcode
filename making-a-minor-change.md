@@ -8,5 +8,3 @@ In the Project Navigator \(the left pane of Xcode\), select the Main.storyboard 
 
 
 
-
-
