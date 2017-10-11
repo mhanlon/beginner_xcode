@@ -8,13 +8,9 @@ In the Finder, pick an image you want to add to the project and drag it into the
 
 ![](/assets/Sushi11.png)
 
+Now that we've added our image we can add it to our view.
 
-
-
-
-
-
- and make sure the Main.storyboard is selected in the Project Navigator.
+and make sure the Main.storyboard is selected in the Project Navigator.
 
 In the right pane, the Utilities pane, there is a section at the bottom
 
