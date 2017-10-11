@@ -18,7 +18,7 @@ In the Utilities pane on the right, there is a section at the bottom. The third 
 
 ![](/assets/Sushi10.png)
 
-Then,
+Drag the Image View over to our View Controller. If you hold the image view over the View Controller it will resize itself to fill the entire controller.
 
-
+![](/assets/ImageViewDrag.png)
 
