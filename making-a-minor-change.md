@@ -12,3 +12,7 @@ By selecting this file the middle pane becomes an editor for the user interface 
 
 If you don't see the View Controller Scene on the left hand side of this pane, you can reveal it by selecting the Editor &gt; Show Document Outline menu item.
 
+![](/assets/ShowDocumentOutline.png)
+
+
+
