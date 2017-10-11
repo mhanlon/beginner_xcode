@@ -30,3 +30,5 @@ Click the Run button again to build and run our application.
 
 ![](/assets/Sushi9.png)
 
+We can see that our background view has changed color in our app now.
+
