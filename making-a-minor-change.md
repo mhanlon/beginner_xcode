@@ -18,5 +18,5 @@ Open the View Controller Scene by clicking on the disclosure triangle to reveal 
 
 ![](/assets/ViewDocumentOutline.png)
 
-
+The far right pane of Xcode's window is the 
 
