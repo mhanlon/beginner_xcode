@@ -6,6 +6,10 @@ In the Project Navigator \(the left pane of Xcode\)
 
 ![](/assets/ProjectNavigator.png)
 
+
+
+
+
 the simulator will launch with a blank white screen.
 
 ![](/assets/Sushi4.png)
