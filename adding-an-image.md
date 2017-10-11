@@ -10,7 +10,9 @@ In the Finder, pick an image you want to add to the project and drag it into the
 
 Now that we've added our image we can add it to our view.
 
-and make sure the Main.storyboard is selected in the Project Navigator.
+Select the Main.storyboard in the Project Navigator.
 
-In the right pane, the Utilities pane, there is a section at the bottom
+We will first delete our old View. Like before in the document outline, highlight the View and press the delete key.
+
+In the Utilities pane on the right, there is a section at the bottom. The third icon is for the Object Library, which is where we can find an Image View to add to our view.
 
