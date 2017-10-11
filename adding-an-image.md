@@ -21,5 +21,5 @@ Drag the Image View over to our View Controller. If you hold the Image View over
 
 ![](/assets/ImageViewDrag.png)
 
-Drop the Image View on the controller. The Utilities pane will change to reflect the properties on the Image View. Select the Image dropdown menu item and select the name of the image you dragged in in step 
+Drop the Image View on the controller. The Utilities pane will change to reflect the properties on the Image View. Select the Image dropdown menu item and select the name of the image you dragged in in step 2.
 
