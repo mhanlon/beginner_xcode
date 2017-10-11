@@ -8,7 +8,5 @@ In the Project Navigator \(the left pane of Xcode\), select the Main.storyboard 
 
 By selecting this file the middle pane becomes an editor for the user interface of our app.
 
-
-
-
+![](/assets/InterfaceBuilder.png)
 
