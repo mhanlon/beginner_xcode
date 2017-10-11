@@ -6,5 +6,7 @@ In the Project Navigator \(the left pane of Xcode\), select the Main.storyboard 
 
 ![](/assets/ProjectNavigator.png)
 
+By selecting this file the middle pane becomes an editor for the user interface of our app.
+
 
 
