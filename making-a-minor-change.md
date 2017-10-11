@@ -16,3 +16,7 @@ If you don't see the View Controller Scene on the left hand side of this pane, y
 
 
 
+Open the View Controller Scene by clicking on the disclosure triangle to reveal a View Controller item, and open that to reveal a View item and select it.
+
+![](/assets/ViewDocumentOutline.png)
+
