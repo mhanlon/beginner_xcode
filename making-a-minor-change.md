@@ -22,5 +22,7 @@ The far right pane of Xcode's window is the Utilities pane. This pane will chang
 
 ![](/assets/Utilities-View.png)
 
+Change the color to something other than the default. I've chosen a bright green here.
+
 
 
