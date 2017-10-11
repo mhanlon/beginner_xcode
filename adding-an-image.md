@@ -23,3 +23,13 @@ Drag the Image View over to our View Controller. If you hold the Image View over
 
 Drop the Image View on the controller. The Utilities pane will change to reflect the properties on the Image View. Select the Image dropdown menu item and select the name of the image you dragged in in step 2.
 
+![](/assets/Sushi12.png)
+
+We don't want our image to be squashed or out of proportion, so change the Content Mode to Aspect Fit.
+
+![](/assets/Sushi13.png)
+
+Now if we press the Run button to build and run our project we will see our image displayed in our app.
+
+![](/assets/Sushi14.png)
+
