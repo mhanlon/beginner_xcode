@@ -2,7 +2,9 @@
 
 Your app should look like this, after following the setup guide:
 
-![](/en/assets/Sushi1.png)Click on the Run button
+![](/en/assets/Sushi1.png)Xcode is made up of 
+
+Click on the Run button
 
 ![](/en/assets/Sushi3.png)
 
