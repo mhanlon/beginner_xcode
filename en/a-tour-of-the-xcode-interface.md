@@ -2,7 +2,7 @@
 
 Your app should look like this, after following the setup guide:
 
-![](/en/assets/Sushi1.png)Xcode is made up of 
+![](/en/assets/Sushi1.png)Xcode is made up of a toolbar
 
 Click on the Run button
 
