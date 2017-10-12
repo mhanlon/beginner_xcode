@@ -2,7 +2,9 @@
 
 Your app should look like this, after following the setup guide:
 
-![](/en/assets/Sushi1.png)Xcode is primarily made up of a toolbar, project navigator pane, editor pane, and utilities pane
+![](/en/assets/Sushi1.png)Xcode is primarily made up of a toolbar, project navigator pane, editor pane, and utilities pane.
+
+
 
 Click on the Run button
 
