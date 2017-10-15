@@ -12,7 +12,7 @@ Before we get started with Swift for app development, we have to download Xcode.
 
 6. Give your app a name:
 
-   ![](/en/assets/Sushi0.png)
+   ![](assets/Sushi0.png)
 
 And now we're good to go, we have the start of our app, and we'll begin tinkering.
 
