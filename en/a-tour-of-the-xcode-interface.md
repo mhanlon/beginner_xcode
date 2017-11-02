@@ -17,3 +17,4 @@ If Xcode asks you to enable Developer Mode on your Mac to give Xcode access to c
 
 To get back to Xcode, you can use  &#8984;-tab to invoke the app switcher to switch between the simulator and Xcode.
 
+If the phone in the simulator is too zoomed or too small, you can 
