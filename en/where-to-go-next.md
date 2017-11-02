@@ -2,7 +2,7 @@
 
 Now that you've built an app with Xcode, you're ready to start exploring Xcode more and working with Swift to make your app even more engaging.
 
-You can 
+If you're just starting out with code you can 
 
 Apple provides two excellent courses that rely heavily on Xcode. They're called [Intro to App Development with Swift](https://itunes.apple.com/us/book/intro-to-app-development-with-swift/id1118575552?mt=11) and [App Development with Swift](https://itunes.apple.com/us/book/app-development-with-swift/id1219117996?mt=11), which you can download from [itunes.com/ecc](http://itunes.com/ecc).
 
