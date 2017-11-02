@@ -6,7 +6,7 @@ Apple provides two excellent courses that rely heavily on Xcode. They're called 
 
 These two courses will give you an excellent grounding in how to make apps with Swift, regardless of your coding background. If you'd rather start with the basics of coding, you can start with [Learn to Code 1 & 2](https://itunes.apple.com/us/book/swift-playgrounds-learn-to-code-1-2/id1118578018?mt=11) and follow on to [Learn to Code 3](https://itunes.apple.com/us/book/swift-playgrounds-learn-to-code-3/id1173709121?mt=11). These books will give you a great introduction to Swift and programming concepts you would use across all sorts of programming languages and platforms.
 
-If you're already a little familiar with Swift, you could start with the [Getting Started Guide](#) to developing iOS apps in which you build an app from start to finish.
+If you're already a little familiar with Swift, you could start with the [Getting Started Guide](https://developer.apple.com/library/content/referencelibrary/GettingStarted/DevelopiOSAppsSwift) to developing iOS apps in which you build an app from start to finish.
 
 **App Development Books & Guides:**
 
