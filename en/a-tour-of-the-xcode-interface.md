@@ -23,3 +23,4 @@ If the phone in the simulator is too zoomed or too small, you can change the sca
 
 Alternatively, you can click, drag, and resize the phone from the corners of the phone.
 
+
