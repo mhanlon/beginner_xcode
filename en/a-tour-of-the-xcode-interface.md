@@ -5,6 +5,7 @@ Your app should look like this, after following the setup guide:
 ![](assets/Sushi1.png)
 
 Xcode is primarily made up of a toolbar, project navigator pane, editor pane, and utilities pane.
+
 ![](assets/XcodeUI1.png)
 
 Click on the Run button
