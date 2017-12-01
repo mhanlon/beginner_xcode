@@ -1,5 +1,4 @@
 {
-    "plugins": ["theme-coderdojosushicard"],
     "variables": {
         "seriesSubject": "Xcode"
     }
