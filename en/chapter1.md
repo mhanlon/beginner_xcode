@@ -14,5 +14,5 @@ Before we get started with Swift for app development, we have to download Xcode.
 
    ![](assets/Sushi0.png)
 
-And now we're good to go, we have the start of our app, and we'll begin tinkering.
+And now that we have the core structure for our app, we're ready to start tinkering.
 
